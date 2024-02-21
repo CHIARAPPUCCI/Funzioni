@@ -1,11 +1,11 @@
-scp chiara.rappucci@tolab.fisica.unimi.it:/home/comune... .      //copia solo un file da loro a tuo pc per esame
-scp -r chiara.rappucci@tolab.fisica.unimi.it:/home/comune... .   //copia tutta la cartella da loro a tuo pc per esame
+scp nome.cognome@tolab.fisica.unimi.it:/home/comune... .      //copia solo un file da loro a tuo pc per esame
+scp -r nome.cognome@tolab.fisica.unimi.it:/home/comune... .   //copia tutta la cartella da loro a tuo pc per esame
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //sorgente = percorso completo della cartella su tuo pc (pwd)
-scp sorgente chiara.rappucci@tolab.fisica.unimi.it:destinazione         //copia un solo file da tuo pc a loro per consegna
-scp -r sorgente chiara.rappucci@tolab.fisica.unimi.it:destinazione      //copia una cartella da tuo pc a loro per consegna
+scp sorgente nome.cognome@tolab.fisica.unimi.it:destinazione         //copia un solo file da tuo pc a loro per consegna
+scp -r sorgente nome.cognome@tolab.fisica.unimi.it:destinazione      //copia una cartella da tuo pc a loro per consegna
 
 
 cartella da cosegna checklist:
